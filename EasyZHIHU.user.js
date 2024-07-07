@@ -1,17 +1,17 @@
 // ==UserScript==
-// @name         EasyZhiHu
+// @name         EasyZHIHU
 // @description  这是一款促进知乎极致简洁和高效的插件。免费共享大量创新功能，如：净化页面、免登录等。让我们的学习体验无比简洁、专注、高效、畅快。
-// @version      2.0
+// @version      3.0
 // @author       xcanwin
-// @namespace    https://github.com/xcanwin/EasyZhiHu/
-// @supportURL   https://github.com/xcanwin/EasyZhiHu/
+// @namespace    https://github.com/xcanwin/EasyZHIHU/
+// @supportURL   https://github.com/xcanwin/EasyZHIHU/
 // @license      GPL-2.0-only
 // @match        https://www.zhihu.com/question/*
 // @match        https://www.zhihu.com/aria/question/*
 // @grant        GM_addStyle
 // @run-at       document-start
-// @downloadURL https://update.greasyfork.org/scripts/499917/EasyZhiHu.user.js
-// @updateURL https://update.greasyfork.org/scripts/499917/EasyZhiHu.meta.js
+// @downloadURL https://update.greasyfork.org/scripts/499917/EasyZHIHU.user.js
+// @updateURL https://update.greasyfork.org/scripts/499917/EasyZHIHU.meta.js
 // ==/UserScript==
 
 (function() {
