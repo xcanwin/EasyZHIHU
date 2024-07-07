@@ -8,6 +8,11 @@
 
 - 随机找篇 [知乎问答](https://www.zhihu.com/question/65467081) 进行测试
 
+| 对比 | 截图 |
+| --- | --- |
+| 使用前 | <img src="/assets/zhihu-before.png" width="750"></img> |
+| 使用后 | <img src="/assets/zhihu-after.png" width="750"></img> |
+
 ## 安装渠道
 
 官方渠道✅:
